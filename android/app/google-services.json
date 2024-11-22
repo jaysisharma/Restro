@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474756484960",
+    "project_id": "restro-21702",
+    "storage_bucket": "restro-21702.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474756484960:android:fc1cab936aab91d0579805",
+        "android_client_info": {
+          "package_name": "com.example.restro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONYlPjHk-m72_xE-pEXAQjaoCFL-TqOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

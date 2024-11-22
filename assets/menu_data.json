@@ -1,0 +1,79 @@
+{
+    "categories": [
+      {
+        "name": "Burger",
+        "image": "https://www.foodandwine.com/thmb/pwFie7NRkq4SXMDJU6QKnUKlaoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+      },
+      {
+        "name": "Fries",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/LT/NE/DN/35551975/premium-french-fries-photos-7-png-500x500.png"
+      },
+      {
+        "name": "Pizza",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg"
+      },
+      {
+        "name": "Biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1200px-Hot_dog_with_mustard.png"
+      },
+      {
+        "name": "More",
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/donot-poster-design-template-f0b50d444dcd6e2faf686b35d47481e1_screen.jpg?ts=1720220444"
+      }
+    ],
+    "recommendedItems": [
+      {
+        "name": "Spaghetti",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+        "price": 10.99,
+        "rating": 4.5,
+        "reviews": 250,
+        "description": "Classic Italian pasta with marinara sauce."
+      },
+      {
+        "name": "Burger",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+        "price": 5.99,
+        "rating": 4.2,
+        "reviews": 150,
+        "description": "Juicy beef patty with lettuce, tomato, and cheese."
+      }
+    ],
+    "trendingItems": [
+      {
+        "name": "Pasta Primavera",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/LT/NE/DN/35551975/premium-french-fries-photos-7-png-500x500.png",
+        "price": 12.99,
+        "rating": 4.6,
+        "reviews": 300,
+        "description": "Fresh pasta with a medley of seasonal vegetables."
+      },
+      {
+        "name": "Fish Tacos",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+        "price": 9.99,
+        "rating": 4.3,
+        "reviews": 180,
+        "description": "Grilled fish with a tangy salsa and avocado."
+      }
+    ],
+    "allDishes": [
+      {
+        "name": "Fried Chicken",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg",
+        "price": 8.99,
+        "rating": 4.6,
+        "reviews": 300,
+        "description": "Crispy fried chicken served with gravy."
+      },
+      {
+        "name": "Caesar Salad",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/LT/NE/DN/35551975/premium-french-fries-photos-7-png-500x500.png",
+        "price": 5.49,
+        "rating": 4.2,
+        "reviews": 180,
+        "description": "Crisp lettuce with Caesar dressing and croutons."
+      }
+    ]
+  }
+  
